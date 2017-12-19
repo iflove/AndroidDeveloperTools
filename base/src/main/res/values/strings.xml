@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidDeveloperTools</string>
+    <string name="activity_main_button_delay_launch">开启倒计时启动</string>
+    <string name="activity_main_button_launch">启动</string>
+    <string name="activity_main_text_view_delay_time">%s 秒后启动（点击暂停）</string>
+</resources>

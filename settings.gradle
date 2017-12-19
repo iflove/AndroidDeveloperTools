@@ -1,0 +1,1 @@
+include ':kotlin-app',':java-app', ':instantapp', ':base'
